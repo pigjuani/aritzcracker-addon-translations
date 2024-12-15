@@ -1,12 +1,12 @@
 {
-	"English (Canada)":"https://raw.githubusercontent.com/pigjuani/lang/refs/heads/main/arcslots/en_ca.txt",
-	"Deutsch (Deutschland)":"https://raw.githubusercontent.com/pigjuani/lang/refs/heads/main/arcslots/de_de.txt",
-	"Français (France)":"https://raw.githubusercontent.com/pigjuani/lang/refs/heads/main/arcslots/fr_fr.txt",
-	"Português (Brasil)":"https://raw.githubusercontent.com/pigjuani/lang/refs/heads/main/arcslots/pt_br.txt",
-	"한국어 (Korea)":"https://raw.githubusercontent.com/pigjuani/lang/refs/heads/main/arcslots/ko_kr.txt",
-	"Русский (Российская Федерация)":"https://raw.githubusercontent.com/pigjuani/lang/refs/heads/main/arcslots/ru_ru.txt",
-	"Türkçe (Türkiye)":"https://raw.githubusercontent.com/pigjuani/lang/refs/heads/main/arcslots/tr_tr.txt",
-	"ไทย (ประเทศไทย)":"https://raw.githubusercontent.com/pigjuani/lang/refs/heads/main/arcslots/th_th.txt"
-	"Espanol (pene)":"https://raw.githubusercontent.com/pigjuani/lang/refs/heads/main/arcslots/es_es.txt"
+	"English (Canada)":"https://raw.githubusercontent.com/pigjuani/aritzcracker-addon-translations/refs/heads/master/arcslots/en_ca.txt",
+	"Deutsch (Deutschland)":"https://raw.githubusercontent.com/pigjuani/aritzcracker-addon-translations/refs/heads/master/arcslots/de_de.txt",
+	"Français (France)":"https://raw.githubusercontent.com/pigjuani/aritzcracker-addon-translations/refs/heads/master/arcslots/fr_fr.txt",
+	"Português (Brasil)":"https://raw.githubusercontent.com/pigjuani/aritzcracker-addon-translations/refs/heads/master/arcslots/pt_br.txt",
+	"한국어 (Korea)":"https://raw.githubusercontent.com/pigjuani/aritzcracker-addon-translations/refs/heads/master/arcslots/ko_kr.txt",
+	"Русский (Российская Федерация)":"https://raw.githubusercontent.com/pigjuani/aritzcracker-addon-translations/refs/heads/master/arcslots/ru_ru.txt",
+	"Türkçe (Türkiye)":"https://raw.githubusercontent.com/pigjuani/aritzcracker-addon-translations/refs/heads/master/arcslots/tr_tr.txt",
+	"ไทย (ประเทศไทย)":"https://raw.githubusercontent.com/pigjuani/aritzcracker-addon-translations/refs/heads/master/arcslots/th_th.txt"
+	"Espanol (pene)":"https://raw.githubusercontent.com/pigjuani/aritzcracker-addon-translations/refs/heads/master/arcslots/es_es.txt"
 	
 }
